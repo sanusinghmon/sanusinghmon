@@ -1,6 +1,5 @@
 
 ![download](https://user-images.githubusercontent.com/60153195/203767297-97445050-65a6-48f3-a519-a83203b13fe0.png)
-<h1 align="center">Hi 👋, I'm sanu singh</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
